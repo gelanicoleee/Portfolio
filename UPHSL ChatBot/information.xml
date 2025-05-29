@@ -1,0 +1,224 @@
+<responses>
+    <response>
+        <keywords>hello,hi,hey</keywords>
+        <text>Hello! How can I help you?</text>
+    </response>
+    <response>
+        <keywords>office,address,location</keywords>
+        <text>UPH Compound, National Highway, Sto. Nino, City of Binan, Laguna</text>
+    </response>
+    <response>
+        <keywords>email,contact</keywords>
+        <text>Corporate Email - info@uphsl.edu.ph</text>
+        <text>Admission - admission.college@uphsl.edu.ph</text>
+        <text>Basic Education - basiced@uphsl.edu.ph</text>
+        <text>Senior High - shs@uphsl.edu.ph</text>
+        <text>College Registrar - registrar@uphsl.edu.ph</text>
+        <text>Graduate School - graduate.school@uphsl.edu.ph</text>
+    </response>
+    <response>
+        <keywords>bye</keywords>
+        <text>Goodbye!</text>
+    </response>
+    <response>
+        <keywords>closing,opening,hours</keywords>
+        <text>We're closed on Sundays. Our hours on weekdays and Saturdays are from 8am to 5pm.</text>
+    </response>
+    <response>
+        <keywords>programs,program</keywords>
+        <text>Graduate School</text>
+        <text>Athletics</text>
+        <text>Arts and Sciences</text>
+        <text>Business and Accountancy</text>
+        <text>Computer Studies</text>
+        <text>Criminology</text>
+        <text>Education</text>
+        <text>Engineering and Aviation</text>
+        <text>International Hospitality Management</text>
+        <text>Maritime</text>
+        <text>Juris Doctor</text>
+        <text>Senior High School</text>
+        <text>Basic Education</text>
+    </response>
+    <response>
+        <keywords>graduate school,graduate</keywords>
+        <text>PhD Philosophy Major in Educational Management</text>
+        <text>M Business Administration</text>
+        <text>MS Clinical Program Development</text>
+        <text>MS Microbiology</text>
+        <text>MS Education</text>
+        <text>PhD Philosophy in Business Management</text>
+        <text>PhD Occupational Therapy</text>
+        <text>PhD Physical Therapy</text>
+        <text>MS Clinical Laboratory Science</text>
+        <text>MS Management Engineering</text>
+        <text>MS Information Technology</text>
+        <text>MA Guidance and Counseling</text>
+        <text>MA Communication</text>
+        <text>MS Microbiology</text>
+        <text>MS Pharmacy</text>
+        <text>MS Psychology</text>
+        <text>MS Radiologic Technology</text>
+        <text>M Library and Information Science</text>
+        <text>M Hospital Administration</text>
+    </response>
+    <response>
+        <keywords>arts,sciences,art,science</keywords>
+        <text>BS Psychology</text>
+        <text>BA Psychology</text>
+        <text>BA Political Science</text>
+        <text>BA Communication</text>
+    </response>
+    <response>
+        <keywords>business,accountancy</keywords>
+        <text>BS Accountancy</text>
+        <text>BS Management Accounting</text>
+        <text>BS Business Administration</text>
+    </response>
+    <response>
+        <keywords>computer,computer studies</keywords>
+        <text>BS Information Technology</text>
+        <text>BS Computer Science</text>
+    </response>
+    <response>
+        <keywords>criminology</keywords>
+        <text>BS Criminology</text>
+    </response>
+    <response>
+        <keywords>education,basic ed</keywords>
+        <text>B Secondary Education</text>
+        <text>B Elementary Education</text>
+        <text>B Library and Information Science</text>
+        <text>B Early Childhood Education</text>
+        <text>B Special Needs Education</text>
+        <text>B Physical Education</text>
+        <text>Education Modular Approach Program</text>
+    </response>
+    <response>
+        <keywords>business,accountancy</keywords>
+        <text>BS Mechanical Engineering</text>
+        <text>BS Industrial Engineering</text>
+        <text>BS Computer Engineering</text>
+        <text>BS Electronics Engineering</text>
+        <text>BS Electrical Engineering</text>
+        <text>BS Civil Engineering</text>
+        <text>BS Architecture</text>
+        <text>BS Aircraft Maintenance Technology</text>
+    </response>
+    <response>
+        <keywords>hospitality,management</keywords>
+        <text>BS Hospitality Management</text>
+        <text>BS Tourism Management</text>
+        <text>BS Nutrition and Dietetics</text>
+    </response>
+    <response>
+        <keywords>maritime</keywords>
+        <text>BS Marine Engineering</text>
+        <text>BS Marine Transportation</text>
+    </response>
+    <response>
+        <keywords>juris</keywords>
+        <text>B Laws</text>
+    </response>
+    <response>
+        <keywords>tuition</keywords>
+        <text>For more inquiries kindly email admission.college@uphsl.edu.ph</text>
+    </response>
+    <response>
+        <keywords>jonelta campus,jonelta campuses</keywords>
+        <text>Binan, Laguna</text>
+        <text>GMA, Cavite</text>
+        <text>Sampaloc, Manila</text>
+        <text>Malasiqui, Pangasinan</text>
+        <text>Cauayan, Isabela</text>
+        <text>Panay, Roxas</text>
+    </response>
+    <response>
+        <keywords>dalta campus, dalta campuses</keywords>
+        <text>Las Pinas</text>
+        <text>Molino</text>
+        <text>Calamaba</text>
+    </response>
+    <response>
+        <keywords>branch,branches</keywords>
+        <text>Binan, Laguna</text>
+        <text>GMA, Cavite</text>
+        <text>Sampaloc, Manila</text>
+        <text>Malasiqui, Pangasinan</text>
+        <text>Cauayan, Isabela</text>
+        <text>Panay, Roxas</text>
+        <text>Las Pinas</text>
+        <text>Molino</text>
+        <text>Calamaba</text>
+    </response>
+    <response>
+        <keywords>founder</keywords>
+        <text>Dr. Jose G. Tamayo and Dr. Josefina Laperal Tamayo</text>
+    </response>
+    <response>
+        <keywords>fb page,facebook</keywords>
+        <text>University of Perpetual Help System Laguna</text>
+    </response>
+    <response>
+        <keywords>board of directors</keywords>
+        <text>Dr./BGen. Antonio Laperal Tamayo, GSC, FPCHA, Ph.D. - Chairman of the Board, CEO and President</text>
+        <text>Ma. Theresa T. Salazar, MD, MS</text>
+        <text>Marianito L. Tamayo, BSFA</text>
+        <text>Arcadio L. Tamayo, MD, PhD - Chancellor and EVP</text>
+        <text>Roberto L. Tamayo, BSC, EdD</text>
+        <text>Manuel L. Tamayo, BSC</text>
+        <text>Maj. Rafael L. Tamayo, BSC, MBA</text>
+        <text>Marcia Ana L. Tamayo, BSC ARCH</text>
+        <text>Ma. Florencia T. Tampoya, MD FAAFP</text>
+        <text>Jose Mauro L. Tamayo, BSC</text>
+        <text>Ma. Consorcia L. Tamayo, BSC</text>
+        <text>Maj. Victor L. Tamayo, MD, MHA</text>
+    </response>
+    <response>
+        <keywords>new student</keywords>
+        <text>Step 1- Secure list of admission requirements from SPS Office.</text>
+        <text>Step 2- Fill out Entrance Examinee Data Form and sign consent under Data Privacy Act.</text>
+        <text>Step 3- Pay entrance examination/locator number fee at Cashier.</text>
+        <text>Step 4- Present official receipt at SPS Office for entrance examination permit.</text>
+        <text>Step 5- Claim examination result/certificate of passing.</text>
+        <text>Step 6- Submit admission requirements for evaluation.</text>
+        <text>Step 7- Pay and claim enrollment kit at Cashier.</text>
+        <text>Step 8- Fill out Individual Inventory Form and Student Needs Assessment Survey.</text>
+        <text>Step 9- Undertake incomplete credentials if necessary.</text>
+        <text>Step 10- Receive Drug Test Monitoring Slip for Clinic notation.</text>
+        <text>Step 11- Sign notice for mandatory drug testing at Clinic.</text>
+        <text>Step 12- Fill out pre-enrollment form at Dean’s Office upon submission of Dean’s envelope.</text>
+        <text>Step 13- Pay assessed tuition and fees at Cashier.</text>
+        <text>Step 14- Present official receipt with assessed courses at Registrar’s Office for registration form.</text>
+        <text>Step 15- Present Registration Form and drug test monitoring slip at ITS Office for student ID issuance.</text>
+    </response>
+    <response>
+        <keywords>transferee</keywords>
+        <text>Step 1- Secure list of admission requirements from SPS Office.</text>
+        <text>Step 2- Submit copy of grades to Dean’s Office for course evaluation.</text>
+        <text>Step 3- Fill out Entrance Examinee Data Form and sign consent under Data Privacy Act at SPS Office.</text>
+        <text>Step 4- Pay entrance examination/locator number fee at Cashier.</text>
+        <text>Step 5- Present official receipt at SPS Office for entrance examination permit and claim examination result.</text>
+        <text>Step 6- Submit admission requirements for evaluation.</text>
+        <text>Step 7- Pay and claim enrollment kit at Cashier.</text>
+        <text>Step 8- Fill out Individual Inventory Form and Student Needs Assessment Survey.</text>
+        <text>Step 9- Undertake incomplete credentials if necessary and receive Drug Test Monitoring Slip for Clinic notation.</text>
+        <text>Step 10- Attend interview at Security Office.</text>
+        <text>Step 11- Submit Security Interview result form for issuance of Dean’s Copy of Student 201 at Admission Office.</text>
+        <text>Step 12- Fill out pre-enrollment form at Dean’s Office upon submission of Dean’s envelope.</text>
+        <text>Step 13- Pay assessed tuition and fees at Cashier and secure official receipt.</text>
+        <text>Step 14- Present official receipt with assessed courses at Registrar’s Office for registration form.</text>
+        <text>Step 15- Present Registration Form and drug test monitoring slip at ITS Office for student ID issuance.</text>
+    </response>
+    <response>
+        <keywords>grades</keywords>
+        <text>You can visit http://gti-binan.dyndns.org:8339/ to view.</text>
+    </response>
+    <response>
+        <keywords>asap</keywords>
+        <text>This is a chatbot that is programmed to respond to the user’s questions about University of Perpetual Help.</text>
+    </response>
+</responses>
+
+
+
